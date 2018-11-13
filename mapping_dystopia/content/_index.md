@@ -10,7 +10,7 @@
 # 
 # The background images are selected by filename - the intro section image must be named "intro-bg.jpg" and placed in the "static/img/" directory for your site.  Similarly, the downloads section image must be named "downloads-bg.jpg" and placed in the "static/img/" directory for your site.  See the default images in the theme's static directory for file size reference.
 
-title: "Hugo Grayscale Theme"
+title: "A Future Dystopia World"
 date: 2018-09-09T00:00:00-00:00
 copyright: "Your Website"
 #mapsapikey: xxx
@@ -26,19 +26,22 @@ menu:
         name: "Original"
 
 intro:
-    header: "Grayscale"
-    text: "A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap."
+    header: "Dystopia"
+    text: "Future world has been taking control by superintelligence."
 
 about:
-    header: "About Grayscale"
-    text: '<p>Grayscale is a free Hugo theme, originally created for Bootstrap by Start Bootstrap. It can be yours right now, simply download the template from <a href="https://github.com/runningstream/hugograyscale/">the Github page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p> <p>This theme was also adapted from a Jekyll version, brought to you by <a href="https://github.com/jeromelachaud">Jerome Lachaud</a></p> <p>This theme features stock photos by <a href="http://gratisography.com/">Gratisography</a> along with a custom Google Maps skin courtesy of <a href="http://snazzymaps.com/">Snazzy Maps</a>.</p> <p>Grayscale includes full HTML, CSS, and custom JavaScript files along with SASS and LESS files for easy customization!</p>'
+    header: "About Dystopia"
+    text: '<p>Artificial general intelligence is very common in human life, and human created two laws for them:
+    -- An A.I. may not injure a human being or, through inaction, allow a human being to come to harm.
+    -- An A.I. must obey orders given it by human beings except where such orders would conflict with the First Law.
+    Superintelligence follow shortly after the development of artificial general intelligence, and then discovered human is biggest reason caused human injury: by starting wars. </p>'
 
-download:
-    rename: "Links"
-    header: "Download Grayscale"
-    text: '<p>You can download Grayscale for free from the Github page.</p><a href="https://github.com/runningstream/hugograyscale/" class="btn btn-default btn-lg">Visit Download Page</a>'
+# download:
+#     rename: "Links"
+#     header: "Download Grayscale"
+#     text: '<p>You can download Grayscale for free from the Github page.</p><a href="https://github.com/runningstream/hugograyscale/" class="btn btn-default btn-lg">Visit Download Page</a>'
 
-contact:
-    header: "Contact Start Bootstrap"
-    text: '<p>Feel free to leave us a comment on the <a href="https://github.com/runningstream/hugograyscale/">Grayscale template Github page</a> to give some feedback about this theme!</p>'
+# contact:
+#     header: "Contact Start Bootstrap"
+#     text: '<p>Feel free to leave us a comment on the <a href="https://github.com/runningstream/hugograyscale/">Grayscale template Github page</a> to give some feedback about this theme!</p>'
 ---
